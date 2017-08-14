@@ -1,0 +1,1 @@
+This repository contains a people listing page using randomuser API. The purpose of this repo is to demonstrates basic usage of reactJS capabilities to create apps.

@@ -1,0 +1,37 @@
+
+/* Styles for Person component*/
+
+.person{
+  display: flex;
+  border-bottom: 1px solid #ddd;
+  padding: 20px;
+}
+
+.person table{
+  padding: 10px 15px;
+}
+
+.person table th, .person table td{
+  text-align: left;
+  vertical-align: top;
+  padding-bottom: 10px;
+}
+
+.person table th{
+  color: #999;
+  font-weight: normal;
+}
+
+.person table td{
+  padding-left: 15px;
+  text-transform: capitalize;
+}
+
+.person table p{
+  margin: 0 0 5px 0;
+}
+
+.person img{
+  border: 1px solid #ccc;
+  padding: 10px;
+}
